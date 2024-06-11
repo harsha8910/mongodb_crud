@@ -1,0 +1,1 @@
+CRUD: create, retrieve, update, delete
